@@ -7,7 +7,7 @@
 # -----------------------------------------------------------------------
 # Randomly generated Sorting Data Structure with Bar graph as visual aid
 # -----------------------------------------------------------------------
-#
+
 # ----- ----- ----- IMPORTS ----- ----- ----- #
 import matplotlib.pyplot as Plot
 from random import randint as Random
